@@ -1,0 +1,5 @@
+{
+  "name": "BTC Quantum Predictor",
+  "description": "Hệ thống phân tích và dự báo giá Bitcoin (BTC/USDT) thời gian thực sử dụng trí tuệ nhân tạo Gemini 3 Pro và các chỉ số kỹ thuật tiên tiến nhất từ sàn Binance.",
+  "requestFramePermissions": []
+}
